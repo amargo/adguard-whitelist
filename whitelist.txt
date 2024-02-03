@@ -1,2 +1,3 @@
 @@|prohardver.hu^$important
 @@|howtogeek.com^$important
+@@|otthon-lakszov.dyndns.org^$important
